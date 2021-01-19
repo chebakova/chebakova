@@ -1,0 +1,16 @@
+{
+    "name": "chebakova/chebakova",
+    "type": "library",
+    "authors": [
+        {
+            "name": "chebakova",
+            "email": "chebakova_k@inbox.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "chebakova\\": ""
+        }
+    }
+}
